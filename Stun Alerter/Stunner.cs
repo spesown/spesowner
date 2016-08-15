@@ -12,6 +12,7 @@ namespace Stun_Alerter
             RegisterSpell("Alistar", new List<SpellSlot> {SpellSlot.Q, SpellSlot.W});
             RegisterSpell("Amumu", new List<SpellSlot> {SpellSlot.Q, SpellSlot.R});
             RegisterSpell("Anivia", new List<SpellSlot> {SpellSlot.Q});
+            RegisterSpell("Annie"), new List<SpellSlot> {SpellSlot.R});
             RegisterSpell("Ashe", new List<SpellSlot> {SpellSlot.R});
             RegisterSpell("Azir", new List<SpellSlot> {SpellSlot.R});
             RegisterSpell("Bard", new List<SpellSlot> {SpellSlot.Q, SpellSlot.R});
@@ -23,6 +24,7 @@ namespace Stun_Alerter
             RegisterSpell("Diana", new List<SpellSlot> {SpellSlot.E});
             RegisterSpell("Draven", new List<SpellSlot> {SpellSlot.E});
             RegisterSpell("Ekko", new List<SpellSlot> {SpellSlot.W});
+            RegisterSpell("Elise") new List<SpellSlot> {SpellSlot.E});
             RegisterSpell("Fiddlesticks", new List<SpellSlot> {SpellSlot.Q, SpellSlot.E});
             RegisterSpell("Fizz", new List<SpellSlot> {SpellSlot.R});
             RegisterSpell("Galio", new List<SpellSlot> {SpellSlot.R});
@@ -35,7 +37,6 @@ namespace Stun_Alerter
             RegisterSpell("Janna", new List<SpellSlot> {SpellSlot.Q, SpellSlot.R});
             RegisterSpell("Jax", new List<SpellSlot> {SpellSlot.E});
             RegisterSpell("Karma", new List<SpellSlot> {SpellSlot.W});
-            RegisterSpell("Kassadin", new List<SpellSlot> {SpellSlot.Q});
             RegisterSpell("LeeSin", new List<SpellSlot> {SpellSlot.R});
             RegisterSpell("Leona", new List<SpellSlot> {SpellSlot.Q, SpellSlot.R});
             RegisterSpell("Lissandra", new List<SpellSlot> {SpellSlot.R});
@@ -49,7 +50,7 @@ namespace Stun_Alerter
             RegisterSpell("Nocturne", new List<SpellSlot> {SpellSlot.E});
             RegisterSpell("Orianna", new List<SpellSlot> {SpellSlot.R});
             RegisterSpell("Pantheon", new List<SpellSlot> {SpellSlot.W});
-            RegisterSpell("Poppy", new List<SpellSlot> {SpellSlot.E});
+            RegisterSpell("Poppy", new List<SpellSlot> {SpellSlot.E, SpellSlot.R});
             RegisterSpell("Quinn", new List<SpellSlot> {SpellSlot.E});
             RegisterSpell("Rammus", new List<SpellSlot> {SpellSlot.Q, SpellSlot.E});
             RegisterSpell("RekSai", new List<SpellSlot> {SpellSlot.W});
