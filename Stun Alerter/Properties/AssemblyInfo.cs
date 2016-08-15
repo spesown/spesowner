@@ -9,7 +9,7 @@ using System.Runtime.InteropServices;
 [assembly: AssemblyDescription("The name said all.")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("LeagueSharp")]
-[assembly: AssemblyProduct("Stun Alerter")]
+[assembly: AssemblyProduct("Stun Alerter 2.0")]
 [assembly: AssemblyCopyright("Copyright © spesown 2016")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
