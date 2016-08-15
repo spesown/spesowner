@@ -56,6 +56,7 @@ namespace Stun_Alerter
             RegisterSpell("RekSai", new List<SpellSlot> {SpellSlot.W});
             RegisterSpell("Renekton", new List<SpellSlot> {SpellSlot.W});
             RegisterSpell("Riven", new List<SpellSlot> {SpellSlot.Q, SpellSlot.W});
+            RegisterSpell("Ryze"), new List<SpellSlot> {SpellSlot.W}
             RegisterSpell("Sejuani", new List<SpellSlot> {SpellSlot.E, SpellSlot.R});
             RegisterSpell("Shen", new List<SpellSlot> {SpellSlot.E});
             RegisterSpell("Shivana", new List<SpellSlot> {SpellSlot.R});
